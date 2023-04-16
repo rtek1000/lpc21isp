@@ -1,0 +1,1 @@
+lpc21isp -bin firmware.bin /dev/ttyAMA0 115200 0
